@@ -1,0 +1,11 @@
+h1 {
+  text-align: center;
+  padding: 25px;
+}
+p {
+  text-align: center;
+}
+.images {
+  height: 50%;
+  width: 100%;
+}
